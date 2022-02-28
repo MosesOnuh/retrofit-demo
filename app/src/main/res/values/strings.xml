@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IchadoMosesDisepExam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Swipe_to_delete">Swipe to delete</string>
+    <string name="userImage">userImage</string>
+    <string name="Name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="favourite">Favourite</string>
+
+</resources>
